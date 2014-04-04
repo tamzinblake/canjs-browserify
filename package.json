@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/thomblake/canjs-browserify/issues"
   },
-  "homepage": "https://github.com/thomblake/canjs-browserify"
+  "homepage": "https://github.com/thomblake/canjs-browserify",
+  "dependencies": {
+    "canjs": "^2.0.7-2",
+    "destealify": "0.0.6"
+  }
 }
